@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working as a **Software Engineer at Lanka Communication Services (Pvt) Ltd**
 
+- 🎓 Education - BSc in Information Technology Specialising in Information Technology **
+
 - 👨‍💻 All of my projects are available at [https://bit.ly/37XLuFJ](https://bit.ly/37XLuFJ)
 
 - 📝 I regularly write articles on [https://tharakab.blogspot.com/](https://tharakab.blogspot.com/)
