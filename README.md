@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharaka9&label=Profile%20views&color=0e75b6&style=flat" alt="tharaka9" /> </p>
 
-- 🔭 I’m currently working as a **Software Engineer at Lanka Communication Services (Pvt) Ltd**
+- 🔭 I’m currently working as a **Engineer -Technology at Virtusa Corporation**
 
 - 🎓 Education - BSc in Information Technology Specialising in Information Technology
 
